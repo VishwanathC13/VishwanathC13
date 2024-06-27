@@ -5,7 +5,7 @@
 -->
 # Hi, I'm Vishwanath C! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and constantly exploring new technologies to build innovative solutions.
+passionate about Python and Swift programming languages, 🐍📱 Always exploring new projects .Let's code something awesome together! 💻✨.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwanathC13&color=green)
 
